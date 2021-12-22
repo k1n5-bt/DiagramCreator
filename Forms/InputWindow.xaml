@@ -1,0 +1,54 @@
+﻿<Window x:Class="DiagramCreator.InputWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:DiagramCreator"
+        mc:Ignorable="d"
+        Title="InputWindow" Height="450" Width="800">
+    <Grid x:Name="Grid" Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+ 
+        <TextBlock>Введите название:</TextBlock>
+        <TextBox Name="Box" Grid.Row="1" MinWidth="250"></TextBox>
+        
+        <WrapPanel Grid.Row="2" HorizontalAlignment="Right" Margin="0,15,0,0">
+            <Button IsDefault="True" Click="Accept_Click" MinWidth="60" Margin="0,0,10,0">OK</Button>
+            <Button IsCancel="True" MinWidth="60">Отмена</Button>
+        </WrapPanel>
+        
+        <WrapPanel Name="Panel" Grid.Row="5" Orientation="Horizontal">
+            <RadioButton Name="Ellipse">
+                <Image Width="50" Height="50" Source="/Resources/Images/ellipse.png"/>
+            </RadioButton>
+            <RadioButton Name="Circle">
+                <Image Width="50" Height="50" Source="/Resources/Images/circle.png"/>
+            </RadioButton>
+            <RadioButton Name="Rectangle">
+                <Image Width="50" Height="50" Source="/Resources/Images/rectangle.png"/>
+            </RadioButton>
+            <RadioButton Name="Square">
+                <Image Width="50" Height="50" Source="/Resources/Images/square.png"/>
+            </RadioButton>
+            <RadioButton Name="Star">
+                <Image Width="50" Height="50" Source="/Resources/Images/star.png"/>
+            </RadioButton>
+            <RadioButton Name="Plus">
+                <Image Width="50" Height="50" Source="/Resources/Images/plus.png"/>
+            </RadioButton>
+            <RadioButton Name="Trapezium">
+                <Image Width="50" Height="50" Source="/Resources/Images/trapezium.png"/>
+            </RadioButton>
+            <RadioButton Name="Ring">
+                <Image Width="50" Height="50" Source="/Resources/Images/ring.png"/>
+            </RadioButton>
+            <RadioButton Name="Triangle">
+                <Image Width="50" Height="50" Source="/Resources/Images/triangle.png"/>
+            </RadioButton>
+        </WrapPanel>
+    </Grid>
+</Window>

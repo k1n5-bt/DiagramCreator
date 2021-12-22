@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=FORMS_005CIMAGES_002DELLIPSE_002EPNG/@EntryIndexedValue">Forms\Images-ellipse.png</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=TRIANGLE_002EPNG/@EntryIndexedValue">triangle.png</s:String>
+	
+	
+	
+	
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/MappedPaths/=DIAGRAMCREATER_003B/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/MappedPaths/=FORMS_005CFORMS/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/MappedPaths/=FORMS_005CIMAGES/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/MappedPaths/=FORMS_005CPATH/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/MappedPaths/=FORMS_005CRESOURCES/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/MappedPaths/=IMAGES_002DELLIPSE_002EPNG/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=DIAGRAMCREATER_003B/@EntryIndexedValue">DiagramCreater;</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=FORMS_005CFORMS/@EntryIndexedValue">Forms\Forms</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=FORMS_005CIMAGES/@EntryIndexedValue">Forms\Images</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=FORMS_005CIMAGES_002DELLIPSE_002EPNG/@EntryIndexedValue">Forms\Images-ellipse.png</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=FORMS_005CPATH/@EntryIndexedValue">Forms\path</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=FORMS_005CRESOURCES/@EntryIndexedValue">Forms\Resources</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=IMAGES/@EntryIndexedValue">Images</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=IMAGES_002DELLIPSE_002EPNG/@EntryIndexedValue">Images-ellipse.png</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=TRIANGLE_002EPNG/@EntryIndexedValue">triangle.png</s:String></wpf:ResourceDictionary>

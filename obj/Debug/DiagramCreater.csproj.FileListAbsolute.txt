@@ -1,0 +1,38 @@
+C:\Users\K1n5\Desktop\Проект C#\DiagramCreater\DiagramCreater\bin\Debug\DiagramCreater.exe.config
+C:\Users\K1n5\Desktop\Проект C#\DiagramCreater\DiagramCreater\bin\Debug\DiagramCreater.exe
+C:\Users\K1n5\Desktop\Проект C#\DiagramCreater\DiagramCreater\bin\Debug\DiagramCreater.pdb
+C:\Users\K1n5\Desktop\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\DiagramCreater.csprojAssemblyReference.cache
+C:\Users\K1n5\Desktop\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\MainWindow.g.cs
+C:\Users\K1n5\Desktop\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\App.g.cs
+C:\Users\K1n5\Desktop\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\DiagramCreater_MarkupCompile.cache
+C:\Users\K1n5\Desktop\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\MainWindow.baml
+C:\Users\K1n5\Desktop\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\DiagramCreater.g.resources
+C:\Users\K1n5\Desktop\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\DiagramCreater.Properties.Resources.resources
+C:\Users\K1n5\Desktop\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\DiagramCreater.csproj.GenerateResource.cache
+C:\Users\K1n5\Desktop\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\DiagramCreater.csproj.CoreCompileInputs.cache
+C:\Users\K1n5\Desktop\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\DiagramCreater.exe
+C:\Users\K1n5\Desktop\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\DiagramCreater.pdb
+C:\Users\K1n5\Desktop\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\K1n5\Desktop\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\DiagramCreater_MarkupCompile.lref
+C:\Users\K1n5\Desktop\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\Control.g.cs
+C:\Users\K1n5\Desktop\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\Control.baml
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\bin\Debug\DiagramCreater.exe.config
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\bin\Debug\DiagramCreater.exe
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\bin\Debug\DiagramCreater.pdb
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\DiagramCreater.csprojAssemblyReference.cache
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\App.g.cs
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\DiagramCreater_MarkupCompile.cache
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\DiagramCreater_MarkupCompile.lref
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\DiagramCreater.g.resources
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\DiagramCreater.Properties.Resources.resources
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\DiagramCreater.csproj.GenerateResource.cache
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\DiagramCreater.csproj.CoreCompileInputs.cache
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\DiagramCreater.exe
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\DiagramCreater.pdb
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\Forms\MainWindow.g.cs
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\Forms\MainWindow.baml
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\Forms\Control.g.cs
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\Forms\InputWindow.g.cs
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\Forms\Control.baml
+C:\Users\k1n5\Desktop\Проект C#(2)\Проект C#\DiagramCreater\DiagramCreater\obj\Debug\Forms\InputWindow.baml

@@ -1,0 +1,29 @@
+﻿<ContentControl MouseWheel="UIElement_OnMouseWheel"
+                x:Class="DiagramCreator.Control"
+                xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                xmlns:global="clr-namespace:"
+                mc:Ignorable="d"
+                d:DesignHeight="650" d:DesignWidth="1000">
+    <Grid>
+        <Rectangle  Fill="White" Width="1200" Height="650"></Rectangle>
+        <Border Width="1200" Height="650" BorderBrush="Black" BorderThickness="2">
+            <Grid Name="Grid"  Width="1200" Height="650">
+                <global:Lattice>
+                    <global:Lattice.RodPen>
+                        <Pen Thickness="1" Brush="Gray"/>
+                    </global:Lattice.RodPen>
+                </global:Lattice>
+                <Canvas Name="canvas">
+                    <Grid Name="a" MouseLeftButtonDown="StartDrag"
+                          MouseWheel="UIElement_OnMouseWheel">
+                        <Ellipse Width="100" Height="100" Fill="Black"></Ellipse>
+                        <TextBlock Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center">Operation</TextBlock>
+                    </Grid>
+                </Canvas>
+            </Grid>
+        </Border>
+    </Grid>
+</ContentControl>
